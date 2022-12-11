@@ -1,4 +1,4 @@
-# MusGo_int
+# MusGo_int64
 Provides serialization of the Golang's `int64` type.
 
 # How to use
